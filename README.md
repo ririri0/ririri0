@@ -1,4 +1,4 @@
-- 👋 Hi,
+- 👋 Hi, [My resume is here.](https://ririri0.github.io/resume/)
 - 👀 I’m interested in Computer Science, Privacy Technology, Machine Learning.
 
 <!---
